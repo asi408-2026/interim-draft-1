@@ -22,8 +22,7 @@ defaults:
 aux_links:
   "GitHub Repo":
     - "//github.com/asi408-2026"
-    "Project Website":
-    - "https://www.galassia.space/"
+    
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
