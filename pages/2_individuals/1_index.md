@@ -22,7 +22,7 @@ has_toc: false
       <p>A0246190H<br>Thermal</p>
     </a>
   </div>
-  <div style="width:200px">
+  <div style="width:250px">
     <a href="{{site.baseurl}}/richard">
       <img src="{{site.baseurl}}/assets/images/profiles/richard.jpg" alt="Victor Soh Cheng Ying" style="width:100%; border-radius:50%">
       <h2>Victor Soh Cheng Ying</h2>
