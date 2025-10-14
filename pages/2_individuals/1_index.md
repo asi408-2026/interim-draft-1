@@ -8,7 +8,7 @@ has_toc: false
 <h1>Team Members</h1>
 
 <div style="margin-top:2em ;display:flex; flex-wrap:wrap; gap:32px">
-  <div style="width:150px">
+  <div style="width:200px">
     <a href="{{site.baseurl}}/wei-hao">
       <img src="{{site.baseurl}}/assets/images/profiles/weihao.jpg" alt="Hang Jin Guang" style="width:100%; border-radius:50%">
       <h2>Hang Jin Guang</h2>
