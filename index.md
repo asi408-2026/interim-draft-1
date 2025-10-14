@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# ASI-404 Galassia-5 Cubesat Final Report
+# ASI-408 Galassia-5 Mechanical Subteam (Interim Report)
 
 ## 1.1 Abstract
 
