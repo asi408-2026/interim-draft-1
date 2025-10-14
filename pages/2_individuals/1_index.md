@@ -10,9 +10,9 @@ has_toc: false
 <div style="margin-top:2em ;display:flex; flex-wrap:wrap; gap:32px">
   <div style="width:150px">
     <a href="{{site.baseurl}}/wei-hao">
-      <img src="{{site.baseurl}}/assets/images/profiles/weihao.jpg" alt="Wei Hao" style="width:100%; border-radius:50%">
-      <h2>Wei Hao</h2>
-      <p>A0240152X<br>Electrical</p>
+      <img src="{{site.baseurl}}/assets/images/profiles/weihao.jpg" alt="Hang Jin Guang" style="width:100%; border-radius:50%">
+      <h2>Hang Jin Guang</h2>
+      <p>A0254475X<br>Mechanical Ground Support Equipment</p>
     </a>
   </div>
   <div style="width:150px">
