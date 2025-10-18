@@ -19,3 +19,6 @@ vendor/
 
 # Ignore Gemfile.lock from version control
 Gemfile.lock
+
+# Extra stuff
+_unused/
