@@ -14,6 +14,24 @@ permalink: /hang-jin-guang/
   </div>
 </div>
 
+# 2. Mechanical Ground Support Equipment
+
+## 2.1 Objective
+The integration and testing of a 6U CubeSat require specialised mechanical ground support equipment (MGSE) to secure and handle the satellite during assembly, transport, and environmental tests. Such MGSE can include Integration and Testing jigs, to be used to support the satellite during assembly and testing of onboard components, carrying cases for external transport of the CubeSat, jigs for vibration testing, and any other ground equipment required for integration, testing and transport of the CubeSat.
+
+As the person responsible for MGSE on Galassia-5, I am tasked with developing a Modular Assembly and Test Jig (“Integration Jig”) that can hold the CubeSat in both vertical and horizontal orientations, to allow for the integration and testing of the satellite. 
+
+## 2.2 Design considerations (jig)
+The Integration Jig should fulfil the following requirements:
+* **Dimensions/Orientation:** Must accommodate a 6U CubeSat (roughly 10×20×30 cm) in all 3 orientations. Support surfaces should match the CubeSat’s outer dimensions or attach to its frame.  
+*   **Load Capacity:**  Carry the satellite’s full weight (approx 9kg) plus safety margin (target ≥2× satellite mass). Resist handling and vibration loads without significant deflection.  
+* **Modularity:** The jig should be modular to support different orientations.  
+*  **ESD Safe:** Surfaces in contact with the satellite must be ESD safe.  
+* **Low Outgassing:** Materials must be space‑qualified for low outgassing (e.g. aluminum alloys, stainless steel, space‑grade plastics) since the jig may be placed in the thermal vacuum chamber and thus exposed to vacuum conditions. \[explain outgassing?\]  
+* **Lightweight:** Minimize mass to ease handling.  
+* **Ease of transport:** The jig must be portable within the cleanroom. Handles or lifting points should be integrated.  
+*  **User ergonomics**: The design must allow technicians clear access for wiring and integration. Adequate **clearance to underside** is needed for access to the bottom of the satellite.  
+* **Ease of manufacture:** Use readily available materials and processes (CNC machining, laser cutting, extrusion) to keep costs low. Aim for a total parts cost significantly below existing MGSE kits. Simple design 
 
 
 
@@ -21,7 +39,7 @@ permalink: /hang-jin-guang/
 
 
 
-
+# **DELETE BELOW THIS LINE**
 # 2. Radiation Monitoring System
 
 ## 2.1 Job Scope
